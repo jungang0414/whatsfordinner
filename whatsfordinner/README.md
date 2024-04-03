@@ -1,5 +1,3 @@
-# Google Maps 簡介 & 搜尋餐廳 & 餐廳資訊
-
 #### Google Maps API
 
 練習實作功能：
